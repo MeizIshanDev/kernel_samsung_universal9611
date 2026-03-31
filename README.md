@@ -3,11 +3,11 @@
   <br>
   <img src="https://i.ibb.co/LYYJzJC/logo.jpg" alt="Markdownify" width="2048">
   <br>
-  GrassKernel
+  IdontTouchGrassKernel
   <br>
 </h1>
 
-<h4 align="center">A custom kernel for the Exynos9611 devices.</h4>
+<h4 align="center">An overclocked custom kernel for the Exynos9611 devices.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
