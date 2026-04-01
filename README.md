@@ -3,11 +3,11 @@
   <br>
   <img src="https://i.ibb.co/LYYJzJC/logo.jpg" alt="Markdownify" width="2048">
   <br>
-  GrassKernel
+  IdontTouchGrassKernel
   <br>
 </h1>
 
-<h4 align="center">A custom kernel for the Exynos9611 devices.</h4>
+<h4 align="center">An overclocked custom kernel for the Exynos9611 devices.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -19,6 +19,7 @@
 ## Key Features
 
 * Disable Samsung securities, debug drivers, etc modifications
+* Overclocked Little cores from 1.7Ghz -> 2.2Ghz and Big cores from 2.3Ghz -> 2.5Ghz 
 * Checkout and rebase against Android common kernel source, Removing Samsung additions to drivers like ext4,f2fs and more
 * Compiled with bleeding edge Clang 19, with full LLVM binutils, LTO (Link time optimization) and -O3  
 * Import Erofs, Incremental FS, BinderFS and several backports.
